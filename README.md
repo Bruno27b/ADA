@@ -1,1 +1,2 @@
 # ADA
+ADA ( Asistente de Accesibilidad ) Es un software comunitario que tiene como objetivo ayudar a las personas que posean alguna discapacidad para el habla o el aprendizaje a utilizar de forma facil una interfaz que les permita conformar oraciones para comunicarse , mediante el uso de guias visuales y la capacidad de extension de vocabulario la persona puede hacer de su uso una fuente de aprendizaje a la vez que le facilita la comunicacion
